@@ -1,0 +1,2477 @@
+ {
+
+  "Name": "Solitude",
+  "LastUpdate": "2019-10-19T10:09:45-0600",
+  "OperatingStatus": "--",
+  "SnowReport": {
+      "LastUpdate": "2019-10-14T13:57:43-0600",
+      "BaseConditions": "Marginal conditions",
+      "Report": "--",
+      "AdditionalText": "Additional text lorem ipsum",
+      "News": "Opening for the 2019/20 winter season on November 23!",
+      "Alert": "--",
+      "SafetyReport": "Safety Report.....",
+      "LiftNotification": "Lift Notification.....",
+      "LastUpdatedLift": {
+          "Powderhorn II": "closed_for_season"
+      },
+      "OpenTerrainAcres": "--",
+      "TotalTerrainAcres": "1200.0",
+      "StormTotalIn": "--",
+      "StormTotalCM": "0.0",
+      "AnnualAverageSnowfallIn": "500.0",
+      "AnnualAverageSnowfallCm": "1270.0",
+      "SnowBaseRangeIn": "--",
+      "SnowBaseRangeCM": "--",
+      "SeasonTotalIn": "--",
+      "SeasonTotalCm": "0.0",
+      "OpenTerrainHectares": "0.0",
+      "TotalTerrainHectares": "486.0",
+      "TotalOpenTrails": 0,
+      "TotalTrails": 82,
+      "TotalOpenLifts": 0,
+      "TotalLifts": 8,
+      "TotalOpenActivities": 0,
+      "TotalActivities": 7,
+      "TotalOpenParks": 0,
+      "TotalParks": 0,
+      "OpenNightParks": 0,
+      "TotalNightParks": 0,
+      "OpenNightTrails": 0,
+      "TotalNightTrails": 0,
+      "BaseArea": {
+          "SinceLiftsClosedIn": "--",
+          "BaseIn": "--",
+          "BaseCm": "0.0",
+          "Last24HoursIn": "--",
+          "Last48HoursIn": "--",
+          "Last72HoursIn": "--",
+          "Last7DaysIn": "--",
+          "SinceLiftsClosedCm": "0.0",
+          "Last24HoursCm": "0.0",
+          "Last48HoursCm": "0.0",
+          "Last72HoursCm": "--",
+          "Last7DaysCm": "0.0"
+      },
+      "MidMountainArea": {
+          "SinceLiftsClosedIn": "--",
+          "BaseIn": "--",
+          "BaseCm": "0.0",
+          "Last24HoursIn": "--",
+          "Last48HoursIn": "--",
+          "Last72HoursIn": "--",
+          "Last7DaysIn": "--",
+          "SinceLiftsClosedCm": "0.0",
+          "Last24HoursCm": "0.0",
+          "Last48HoursCm": "0.0",
+          "Last72HoursCm": "--",
+          "Last7DaysCm": "0.0"
+      },
+      "SummitArea": {
+          "SinceLiftsClosedIn": "--",
+          "BaseIn": "--",
+          "BaseCm": "0.0",
+          "Last24HoursIn": "--",
+          "Last48HoursIn": "--",
+          "Last72HoursIn": "--",
+          "Last7DaysIn": "--",
+          "SinceLiftsClosedCm": "0.0",
+          "Last24HoursCm": "0.0",
+          "Last48HoursCm": "0.0",
+          "Last72HoursCm": "--",
+          "Last7DaysCm": "0.0"
+      }
+  },
+  "MountainAreas": [
+      {
+          "Name": "Moonbeam Area",
+          "LastUpdate": "2019-10-14T14:00:09-0600",
+          "OpenTrailsCount": 0,
+          "TotalTrailsCount": 7,
+          "Trails": [
+              {
+                  "Name": "Dean's Dash",
+                  "MountainAreaName": "Moonbeam Area",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-14T14:00:09-0600",
+                  "Difficulty": "Easy",
+                  "TrailIcon": "GreenCircle",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Easy Street",
+                  "MountainAreaName": "Moonbeam Area",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-14T14:00:09-0600",
+                  "Difficulty": "Easy",
+                  "TrailIcon": "GreenCircle",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Home Run",
+                  "MountainAreaName": "Moonbeam Area",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:30:03-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Last Run",
+                  "MountainAreaName": "Moonbeam Area",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:30:03-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Little Dollie",
+                  "MountainAreaName": "Moonbeam Area",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:30:04-0600",
+                  "Difficulty": "Easy",
+                  "TrailIcon": "GreenCircle",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Same Street",
+                  "MountainAreaName": "Moonbeam Area",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:30:04-0600",
+                  "Difficulty": "Easy",
+                  "TrailIcon": "GreenCircle",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Tude-Dudes",
+                  "MountainAreaName": "Moonbeam Area",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:30:04-0600",
+                  "Difficulty": "Easy",
+                  "TrailIcon": "GreenCircle",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              }
+          ],
+          "Lifts": [ ],
+          "Activities": [
+              {
+                  "Name": "Moonbeam Area",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-14T14:00:23-0600",
+                  "Hours": {
+                      "Sunday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Monday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Tuesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Wednesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Thursday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Friday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Saturday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "Name": "Solitude Canyon",
+          "LastUpdate": "2019-10-14T14:00:08-0600",
+          "OpenTrailsCount": 0,
+          "TotalTrailsCount": 29,
+          "Trails": [
+              {
+                  "Name": "Alta Bird",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-14T14:00:08-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Back Door",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-14T14:00:08-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Barrett's Glade",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-10T09:31:18-0600",
+                  "Difficulty": "Expert",
+                  "TrailIcon": "DoubleBlackDiamond",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "Yes",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Broadway",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:59:00-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Cathedral Cirque",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:00:19-0600",
+                  "Difficulty": "Expert",
+                  "TrailIcon": "DoubleBlackDiamond",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Corner Chute",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:01:32-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Dead Tree",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-10T09:31:46-0600",
+                  "Difficulty": "Expert",
+                  "TrailIcon": "DoubleBlackDiamond",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "Yes",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Dynamite",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:03:23-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Evening Star",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-10T09:32:13-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "Yes",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Front Door",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:13:00-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Headwall Forest",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:13:43-0600",
+                  "Difficulty": "Expert",
+                  "TrailIcon": "DoubleBlackDiamond",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Liberty",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:14:57-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Middle Slope",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:15:53-0600",
+                  "Difficulty": "Expert",
+                  "TrailIcon": "DoubleBlackDiamond",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Milk Run",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:16:49-0600",
+                  "Difficulty": "Expert",
+                  "TrailIcon": "DoubleBlackDiamond",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Mine",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:17:50-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "North Star",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:18:42-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Parachute",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:21:08-0600",
+                  "Difficulty": "Expert",
+                  "TrailIcon": "DoubleBlackDiamond",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Polaris",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:20:54-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Powderhorn Cirque",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:20:39-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Roller Coaster",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:22:29-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Scree Slope",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:22:56-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Sensation",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:23:42-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Shaft",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:26:37-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "SolBright",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:26:50-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "South Star",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:27:07-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Summit Access East",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:27:41-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Summit Access West",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:27:57-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Timberline",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:28:15-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Zip-A-Dee",
+                  "MountainAreaName": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:28:33-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              }
+          ],
+          "Lifts": [ ],
+          "Activities": [
+              {
+                  "Name": "Solitude Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T13:31:42-0600",
+                  "Hours": {
+                      "Sunday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Monday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Tuesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Wednesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Thursday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Friday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Saturday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "Name": "Eagle Ridge",
+          "LastUpdate": "2019-10-14T14:11:19-0600",
+          "OpenTrailsCount": 0,
+          "TotalTrailsCount": 28,
+          "Trails": [
+              {
+                  "Name": "Abba's Alley",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-14T14:00:09-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Blue Spruce",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-14T14:00:09-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Challenger",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:58-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "Yes",
+                  "Glades": "Yes",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Concord",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:58-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Diamond Lane",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:58-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Eagle Ridge",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:58-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Fleet Street",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:58-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Fluid Drive",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:58-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Gary's Glade",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:58-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Grumble",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-11T16:57:18-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Hal's Hollow",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:58-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Inspiration",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:58-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Main Street",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:58-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Olympia",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-14T14:11:19-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Paradise",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:59-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Paradise Lost",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:59-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Post Card",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:59-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Rhapsody",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:59-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Rumble",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:59-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Serenity",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:59-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Shady Lane",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:59-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Stumble",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:59-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Sundancer",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:59-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Sunshine Bowl",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:59-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "TBD",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:59-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Vertigo",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:59-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Wall Street",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:59-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Wanderer",
+                  "MountainAreaName": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T12:35:59-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              }
+          ],
+          "Lifts": [ ],
+          "Activities": [
+              {
+                  "Name": "Eagle Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-14T14:00:23-0600",
+                  "Hours": {
+                      "Sunday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Monday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Tuesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Wednesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Thursday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Friday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Saturday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "Name": "Honeycomb Canyon",
+          "LastUpdate": "2019-10-14T14:00:08-0600",
+          "OpenTrailsCount": 0,
+          "TotalTrailsCount": 14,
+          "Trails": [
+              {
+                  "Name": "Black Bess",
+                  "MountainAreaName": "Honeycomb Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-14T14:00:08-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Black Forest",
+                  "MountainAreaName": "Honeycomb Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-14T14:00:08-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Boundary Chutes",
+                  "MountainAreaName": "Honeycomb Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:42:38-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Buckeye Junior",
+                  "MountainAreaName": "Honeycomb Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:37:20-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "Top",
+                  "Glades": "Yes",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Crystal Point",
+                  "MountainAreaName": "Honeycomb Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:38:34-0600",
+                  "Difficulty": "Expert",
+                  "TrailIcon": "DoubleBlackDiamond",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "Yes",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Here Be Dragons",
+                  "MountainAreaName": "Honeycomb Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:40:16-0600",
+                  "Difficulty": "Expert",
+                  "TrailIcon": "DoubleBlackDiamond",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Honeycomb Return",
+                  "MountainAreaName": "Honeycomb Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:41:14-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Memorial Chutes",
+                  "MountainAreaName": "Honeycomb Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:41:56-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Navarone",
+                  "MountainAreaName": "Honeycomb Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:43:33-0600",
+                  "Difficulty": "Expert",
+                  "TrailIcon": "DoubleBlackDiamond",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "No Man's Land",
+                  "MountainAreaName": "Honeycomb Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:44:22-0600",
+                  "Difficulty": "Expert",
+                  "TrailIcon": "DoubleBlackDiamond",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Prince of Wales",
+                  "MountainAreaName": "Honeycomb Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:44:54-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Queen Bess",
+                  "MountainAreaName": "Honeycomb Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:45:32-0600",
+                  "Difficulty": "Expert",
+                  "TrailIcon": "DoubleBlackDiamond",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Voltaire",
+                  "MountainAreaName": "Honeycomb Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:45:21-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Woodlawn",
+                  "MountainAreaName": "Honeycomb Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:45:11-0600",
+                  "Difficulty": "Difficult",
+                  "TrailIcon": "BlueBlackSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              }
+          ],
+          "Lifts": [ ],
+          "Activities": [
+              {
+                  "Name": "Honeycomb Canyon",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T13:32:42-0600",
+                  "Hours": {
+                      "Sunday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Monday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Tuesday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Wednesday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Thursday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Friday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Saturday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "Name": "Evergreen Peak",
+          "LastUpdate": "2019-10-14T14:00:08-0600",
+          "OpenTrailsCount": 0,
+          "TotalTrailsCount": 1,
+          "Trails": [
+              {
+                  "Name": "Evergreen Chutes",
+                  "MountainAreaName": "Evergreen Peak",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-14T14:00:08-0600",
+                  "Difficulty": "Expert",
+                  "TrailIcon": "DoubleBlackDiamond",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "Yes",
+                  "Nordic": "No"
+              }
+          ],
+          "Lifts": [
+              {
+                  "Name": "Apex Express",
+                  "MountainAreaName": "Evergreen Peak",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "FirstTracks": "No",
+                  "UpdateDate": "2019-10-14T13:58:00-0600",
+                  "LiftType": "High-Speed Quad",
+                  "Hours": {
+                      "Sunday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Monday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Tuesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Wednesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Thursday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Friday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Saturday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      }
+                  }
+              },
+              {
+                  "Name": "Eagle Express",
+                  "MountainAreaName": "Evergreen Peak",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "FirstTracks": "No",
+                  "UpdateDate": "2019-10-08T10:33:33-0600",
+                  "LiftType": "High-Speed Quad",
+                  "Hours": {
+                      "Sunday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Monday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Tuesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Wednesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Thursday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Friday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Saturday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      }
+                  }
+              },
+              {
+                  "Name": "Honeycomb Return",
+                  "MountainAreaName": "Evergreen Peak",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "FirstTracks": "No",
+                  "UpdateDate": "2019-10-08T10:34:27-0600",
+                  "LiftType": "Quad Chair",
+                  "Hours": {
+                      "Sunday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Monday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Tuesday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Wednesday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Thursday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Friday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Saturday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      }
+                  }
+              },
+              {
+                  "Name": "Link",
+                  "MountainAreaName": "Evergreen Peak",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "FirstTracks": "No",
+                  "UpdateDate": "2019-10-14T13:58:00-0600",
+                  "LiftType": "Double",
+                  "Hours": {
+                      "Sunday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Monday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Tuesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Wednesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Thursday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Friday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Saturday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      }
+                  }
+              },
+              {
+                  "Name": "Moonbeam Express",
+                  "MountainAreaName": "Evergreen Peak",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "FirstTracks": "No",
+                  "UpdateDate": "2019-10-14T13:58:01-0600",
+                  "LiftType": "High-Speed Quad",
+                  "Hours": {
+                      "Sunday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Monday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Tuesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Wednesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Thursday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Friday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Saturday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      }
+                  }
+              },
+              {
+                  "Name": "Powderhorn II",
+                  "MountainAreaName": "Evergreen Peak",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "FirstTracks": "No",
+                  "UpdateDate": "2019-10-14T13:58:01-0600",
+                  "LiftType": "Quad Chair",
+                  "Hours": {
+                      "Sunday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Monday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Tuesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Wednesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Thursday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Friday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Saturday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      }
+                  }
+              },
+              {
+                  "Name": "Summit Express",
+                  "MountainAreaName": "Evergreen Peak",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "FirstTracks": "No",
+                  "UpdateDate": "2019-10-08T10:34:56-0600",
+                  "LiftType": "High-Speed Quad",
+                  "Hours": {
+                      "Sunday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Monday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Tuesday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Wednesday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Thursday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Friday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Saturday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      }
+                  }
+              },
+              {
+                  "Name": "Sunrise",
+                  "MountainAreaName": "Evergreen Peak",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "FirstTracks": "No",
+                  "UpdateDate": "2019-10-08T10:35:07-0600",
+                  "LiftType": "Triple Chair",
+                  "Hours": {
+                      "Sunday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Monday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Tuesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Wednesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Thursday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Friday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Saturday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      }
+                  }
+              }
+          ],
+          "Activities": [
+              {
+                  "Name": "Evergreen Peak",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-14T14:00:23-0600",
+                  "Hours": {
+                      "Sunday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Monday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Tuesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Wednesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Thursday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Friday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Saturday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "Name": "Highway to Heaven",
+          "LastUpdate": "2019-10-14T14:11:18-0600",
+          "OpenTrailsCount": 0,
+          "TotalTrailsCount": 1,
+          "Trails": [
+              {
+                  "Name": "Highway to Heaven",
+                  "MountainAreaName": "Highway to Heaven",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-14T14:11:18-0600",
+                  "Difficulty": "Expert",
+                  "TrailIcon": "DoubleBlackDiamond",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "Yes",
+                  "Glades": "No",
+                  "Touring": "Yes",
+                  "Nordic": "No"
+              }
+          ],
+          "Lifts": [ ],
+          "Activities": [
+              {
+                  "Name": "Highway to Heaven",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T13:32:11-0600",
+                  "Hours": {
+                      "Sunday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Monday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Tuesday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Wednesday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Thursday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Friday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      },
+                      "Saturday": {
+                          "Open": "9:00 AM",
+                          "Close": "3:30 PM"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "Name": "Fantasy Ridge",
+          "LastUpdate": "2019-10-11T16:14:19-0600",
+          "OpenTrailsCount": 0,
+          "TotalTrailsCount": 2,
+          "Trails": [
+              {
+                  "Name": "Black Bess Chutes",
+                  "MountainAreaName": "Fantasy Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T13:55:34-0600",
+                  "Difficulty": "Expert",
+                  "TrailIcon": "DoubleBlackDiamond",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "Yes",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Honeycomb Chutes",
+                  "MountainAreaName": "Fantasy Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:53:28-0600",
+                  "Difficulty": "Expert",
+                  "TrailIcon": "DoubleBlackDiamond",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "Yes",
+                  "Nordic": "No"
+              }
+          ],
+          "Lifts": [ ],
+          "Activities": [
+              {
+                  "Name": "Fantasy Ridge",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T13:33:20-0600",
+                  "Hours": {
+                      "Sunday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Monday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Tuesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Wednesday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Thursday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Friday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      },
+                      "Saturday": {
+                          "Open": "9:00 AM",
+                          "Close": "4:00 PM"
+                      }
+                  }
+              }
+          ]
+      },
+      {
+          "Name": "Nordic",
+          "LastUpdate": "2019-10-14T09:10:58-0600",
+          "OpenTrailsCount": 0,
+          "TotalTrailsCount": 0,
+          "Trails": [
+              {
+                  "Name": "Big Redman",
+                  "MountainAreaName": "Nordic",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-14T09:10:58-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "Yes"
+              },
+              {
+                  "Name": "Bypass",
+                  "MountainAreaName": "Nordic",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-11T16:28:26-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "Yes"
+              },
+              {
+                  "Name": "Cabin Fever",
+                  "MountainAreaName": "Nordic",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-11T16:29:49-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "Yes"
+              },
+              {
+                  "Name": "Cabin Loop",
+                  "MountainAreaName": "Nordic",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:04:04-0600",
+                  "Difficulty": "Snowshoe",
+                  "TrailIcon": "Snowshoe",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Camp Loop",
+                  "MountainAreaName": "Nordic",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-11T16:30:12-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "Yes"
+              },
+              {
+                  "Name": "Cornucopia",
+                  "MountainAreaName": "Nordic",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-10T12:00:47-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Creek Bottom",
+                  "MountainAreaName": "Nordic",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:06:38-0600",
+                  "Difficulty": "Snowshoe",
+                  "TrailIcon": "Snowshoe",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Evergreen",
+                  "MountainAreaName": "Nordic",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-10T10:05:19-0600",
+                  "Difficulty": "Easier",
+                  "TrailIcon": "GreenBlackCircle",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Lake Flat",
+                  "MountainAreaName": "Nordic",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-10T10:02:49-0600",
+                  "Difficulty": "Easier",
+                  "TrailIcon": "GreenBlackCircle",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Little Redman",
+                  "MountainAreaName": "Nordic",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-10T10:05:19-0600",
+                  "Difficulty": "Easier",
+                  "TrailIcon": "GreenBlackCircle",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Mid Redman",
+                  "MountainAreaName": "Nordic",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-10T10:05:19-0600",
+                  "Difficulty": "Easier",
+                  "TrailIcon": "GreenBlackCircle",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "New Sensation",
+                  "MountainAreaName": "Nordic",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-10T12:01:32-0600",
+                  "Difficulty": "Intermediate",
+                  "TrailIcon": "BlueSquare",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Redman Loop",
+                  "MountainAreaName": "Nordic",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:45:41-0600",
+                  "Difficulty": "Snowshoe",
+                  "TrailIcon": "Snowshoe",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Silver Lake",
+                  "MountainAreaName": "Nordic",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-10T10:05:19-0600",
+                  "Difficulty": "Easier",
+                  "TrailIcon": "GreenBlackCircle",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Silver Lake Loop",
+                  "MountainAreaName": "Nordic",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:15:13-0600",
+                  "Difficulty": "Snowshoe",
+                  "TrailIcon": "Snowshoe",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Solitude Street",
+                  "MountainAreaName": "Nordic",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-10T10:11:32-0600",
+                  "Difficulty": "Easier",
+                  "TrailIcon": "GreenBlackCircle",
+                  "SnowMaking": "No",
+                  "Grooming": "Yes",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              },
+              {
+                  "Name": "Solitude Trail",
+                  "MountainAreaName": "Nordic",
+                  "Status": "Closed for Season",
+                  "StatusEnglish": "closed_for_season",
+                  "UpdateDate": "2019-10-08T11:15:59-0600",
+                  "Difficulty": "Snowshoe",
+                  "TrailIcon": "Snowshoe",
+                  "SnowMaking": "No",
+                  "Grooming": "No",
+                  "NightSkiing": "No",
+                  "Moguls": "No",
+                  "Glades": "No",
+                  "Touring": "No",
+                  "Nordic": "No"
+              }
+          ],
+          "Lifts": [ ],
+          "Activities": [ ]
+      }
+  ],
+  "RoadOptions": [ ],
+  "CurrentConditions": {
+      "Base": {
+          "FeedSavedTime": "2019-10-19T10:09:41-0600",
+          "PressureIN": "--",
+          "PressureMB": "--",
+          "TemperatureF": "29.0",
+          "TemperatureC": "-1.5",
+          "Humidity": "--",
+          "DewPointF": "--",
+          "DewPointC": "--",
+          "WindDirection": "--",
+          "WindStrengthMph": "--",
+          "WindStrengthKph": "--",
+          "Skies": "Sunny",
+          "TemperatureHighF": "33.0",
+          "TemperatureHighC": "1.0",
+          "TemperatureLowF": "15.0",
+          "TemperatureLowC": "-9.0",
+          "UvIndex": "--",
+          "Conditions": "sunny",
+          "Icon": "skc.svg"
+      },
+      "MidMountain": {
+          "FeedSavedTime": "2019-10-19T10:09:39-0600",
+          "PressureIN": "--",
+          "PressureMB": "--",
+          "TemperatureF": "29.0",
+          "TemperatureC": "-1.5",
+          "Humidity": "--",
+          "DewPointF": "--",
+          "DewPointC": "--",
+          "WindDirection": "--",
+          "WindStrengthMph": "--",
+          "WindStrengthKph": "--",
+          "Skies": "Sunny",
+          "TemperatureHighF": "33.0",
+          "TemperatureHighC": "1.0",
+          "TemperatureLowF": "15.0",
+          "TemperatureLowC": "-9.0",
+          "UvIndex": "--",
+          "Conditions": "sunny",
+          "Icon": "skc.svg"
+      },
+      "Summit": {
+          "FeedSavedTime": "2019-10-19T10:09:40-0600",
+          "PressureIN": "--",
+          "PressureMB": "--",
+          "TemperatureF": "0.0",
+          "TemperatureC": "-18.0",
+          "Humidity": 100,
+          "DewPointF": "0.0",
+          "DewPointC": "-17.78",
+          "WindDirection": "--",
+          "WindStrengthMph": "--",
+          "WindStrengthKph": "--",
+          "Skies": "Sunny",
+          "TemperatureHighF": "33.0",
+          "TemperatureHighC": "1.0",
+          "TemperatureLowF": "15.0",
+          "TemperatureLowC": "-9.0",
+          "UvIndex": "--",
+          "Conditions": "sunny",
+          "Icon": "skc.svg"
+      }
+  },
+  "Forecast": {
+      "TempHighF": "33.0",
+      "TempLowF": "15.0",
+      "TempHighC": "1.0",
+      "TempLowC": "-9.0",
+      "ForecastedSnowIn": "7.0",
+      "ForecastedSnowCm": "19.0",
+      "OneDay": {
+          "temp_high_f": "33.0",
+          "temp_low_f": "15.0",
+          "temp_high_c": "1.0",
+          "temp_low_c": "-9.0",
+          "forecasted_snow_in": 7,
+          "forecasted_snow_cm": 19,
+          "skies": "Snow. Snow",
+          "conditions": "snow",
+          "icon": "snow.svg",
+          "avewind": {
+              "mph": "10mph",
+              "kph": "3m/s",
+              "dir": "W"
+          }
+      },
+      "TwoDay": {
+          "temp_high_f": "20.0",
+          "temp_low_f": "9.0",
+          "temp_high_c": "-7.0",
+          "temp_low_c": "-13.0",
+          "forecasted_snow_in": 2,
+          "forecasted_snow_cm": 6,
+          "skies": "Chance of Snow. Chance of Snow",
+          "conditions": "chance_of_snow",
+          "icon": "snow.svg",
+          "avewind": {
+              "mph": "5mph",
+              "kph": "2m/s",
+              "dir": "W"
+          }
+      },
+      "ThreeDay": {
+          "temp_high_f": "27.0",
+          "temp_low_f": "22.0",
+          "temp_high_c": "-3.0",
+          "temp_low_c": "-6.0",
+          "forecasted_snow_in": 1,
+          "forecasted_snow_cm": 3,
+          "skies": "Clear. Mostly Cloudy",
+          "conditions": "clear",
+          "icon": "skc.svg",
+          "avewind": {
+              "mph": "10mph",
+              "kph": "3m/s",
+              "dir": "W"
+          }
+      },
+      "FourDay": {
+          "temp_high_f": "37.0",
+          "temp_low_f": "28.0",
+          "temp_high_c": "3.0",
+          "temp_low_c": "-2.0",
+          "forecasted_snow_in": 0,
+          "forecasted_snow_cm": 0,
+          "skies": "Clear. Partly Cloudy",
+          "conditions": "clear",
+          "icon": "skc.svg",
+          "avewind": {
+              "mph": "5mph",
+              "kph": "1m/s",
+              "dir": "W"
+          }
+      }
+  },
+  "ParkingLots": [
+      {
+          "Name": "Employee ",
+          "NumberOfSpots": 200
+      }
+  ],
+  "LayoutOptions": {
+      "soldOut": "false",
+      "Weather": [
+          "toggle_overnight",
+          "toggle_24",
+          "toggle_48",
+          "season_total"
+      ],
+      "Disclaimer": "--"
+  }
+}
